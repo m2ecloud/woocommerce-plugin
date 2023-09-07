@@ -1,1 +1,3 @@
-# woocommerce-m2ecloud-plugin-1
+# Woocommerce Plugin
+
+Integration with Wordpress woocommerce plugin
