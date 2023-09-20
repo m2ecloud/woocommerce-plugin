@@ -1,0 +1,11 @@
+.m2e-cs-frame {
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: -20px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100vh;
+    min-height: 100%;
+}

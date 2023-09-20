@@ -1,0 +1,4 @@
+*** M2E Cloud: Sales Channels ***
+
+2023-09-18 - version 1.0.0
+* Initial release
