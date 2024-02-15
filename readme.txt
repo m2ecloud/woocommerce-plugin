@@ -3,7 +3,7 @@ Tags: ebay, amazon, walmart
 Requires at least: 6.1
 Tested up to: 6.4
 Requires PHP: 7.2
-Stable tag: <m2esc_version>
+Stable tag: <m2ecloud_version>
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
