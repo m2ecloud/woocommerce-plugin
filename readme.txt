@@ -1,7 +1,7 @@
 === M2E Multichannel Connect ===
 Tags: ebay, amazon, walmart
 Requires at least: 6.1
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 7.2
 Stable tag: <m2ecloud_version>
 License: GPLv2
